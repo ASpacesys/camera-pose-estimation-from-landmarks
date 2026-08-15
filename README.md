@@ -4,7 +4,7 @@
 
 Given a photo and the real-world coordinates (latitude, longitude, altitude) of a few recognizable landmarks visible in it, this notebook recovers the **observer's 3D position, gaze direction, and focal length**. It's an implementation of the classic *camera resectioning* / *photogrammetry* problem, useful for photo geolocation, OSINT and photo verification, forensic analysis, and single-image 3D reconstruction.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Camera_Pose_Estimation_from_Landmarks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ASpacesys/camera-pose-estimation-from-landmarks/blob/main/Camera_Pose_Estimation_from_Landmarks.ipynb)
 
 ---
 

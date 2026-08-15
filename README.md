@@ -60,4 +60,4 @@ The core idea is standard pinhole-camera perspective projection: a 3D point `P` 
 ---
 
 ## License
-This project is licensed under the terms of the MIT license."
+This project is licensed under the terms of the MIT license.

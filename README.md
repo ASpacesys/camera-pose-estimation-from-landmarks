@@ -26,7 +26,7 @@ Given a photo and the real-world coordinates (latitude, longitude, altitude) of 
 
 ## Inspiration
 
-This project was inspired by [colsto](https://www.youtube.com/watch?v=BumQicEt3Tw) and [MostOriginalIGN](https://github.com/mostoriginalign). To my knowledge, no easily accessible real-world pose solver exists online, which is why I created this notebook. The primary purpose of this project is to make OSINT more accessible to people, most notably for aerial imagery. For example, there may be many flights flying in and out of an airport every day, but each takes a different route on departure or arrival. Being able to pinpoint an aerial picture to a reasonable accuracy allows the exact airplane to be found.
+This project was inspired by [colsto](https://www.youtube.com/@colsto) and [MostOriginalIGN](https://github.com/mostoriginalign). To my knowledge, no easily accessible real-world pose solver exists online, which is why I created this notebook. The primary purpose of this project is to make OSINT more accessible to people, most notably for aerial imagery. For example, there may be many flights flying in and out of an airport every day, but each takes a different route on departure or arrival. Being able to pinpoint an aerial picture to a reasonable accuracy allows the exact airplane to be found.
 
 ---
 
